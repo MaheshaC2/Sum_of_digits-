@@ -1,5 +1,4 @@
 # Sum of Digits
-
 num = int(input("Enter a number: "))
 total = 0
 
